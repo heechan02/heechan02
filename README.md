@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/heechan02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:heechanyang02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#8ae2efefe9e2ebe4f3ebe4edbab8caede7ebe3e6a4e9e5e7"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
 
 <!-- PROJECT CARD: SatShield -->
 <details open>
-<summary><h3>🛡️ SatShield — Parametric Insurance dApp&nbsp;&nbsp;<code>ETH Oxford 2026 · Top 6</code></h3></summary>
+<summary><h3>🛡️ <a href="https://github.com/heechan02/Satshield-ETH-Oxford">SatShield — Parametric Insurance dApp</a>&nbsp;&nbsp;<code>ETH Oxford 2026 · Top 6</code></h3></summary>
 <br>
 
 > Automated disaster-relief insurance on Flare Network — no claims process, no intermediaries, just trustless payouts when earthquakes hit.
@@ -62,7 +62,7 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
 
 <!-- PROJECT CARD: Summer of Bitcoin -->
 <details>
-<summary><h3>₿ Summer of Bitcoin 2026 — Protocol Engineering Challenges&nbsp;&nbsp;<code>All 3 Completed</code></h3></summary>
+<summary><h3>₿ <a href="https://github.com/heechan02/summer-of-bitcoin-2026">Summer of Bitcoin 2026 — Protocol Engineering Challenges</a>&nbsp;&nbsp;<code>All 3 Completed</code></h3></summary>
 <br>
 
 > Three progressively deeper challenges covering core Bitcoin protocol engineering — from raw transaction parsing to wallet construction to chain analysis.
@@ -90,7 +90,7 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 
 <!-- PROJECT CARD: PHEM -->
 <details>
-<summary><h3>🎭 PHEM — Performance Hall Event Management System&nbsp;&nbsp;<code>Java · OOP Coursework · 91%</code></h3></summary>
+<summary><h3>🎭 <a href="https://github.com/heechan02/Performance-Hall-Event-Management-System">PHEM — Performance Hall Event Management System</a>&nbsp;&nbsp;<code>Java · OOP Coursework · 91%</code></h3></summary>
 <br>
 
 > Full-featured Java desktop application for venue event management with admin and customer interfaces, shopping basket, and mock payment gateway.
@@ -106,7 +106,7 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 
 <!-- PROJECT CARD: Arduino Payroll -->
 <details>
-<summary><h3>⚙️ Arduino Payroll Management System&nbsp;&nbsp;<code>C/C++ · Embedded · 77%</code></h3></summary>
+<summary><h3>⚙️ <a href="https://github.com/heechan02/Payroll-Management-System-Arduino">Arduino Payroll Management System</a>&nbsp;&nbsp;<code>C/C++ · Embedded · 77%</code></h3></summary>
 <br>
 
 > Embedded payroll system on Arduino with FSM architecture, LCD dashboard, and real-time employee record management within tight memory constraints.
@@ -141,7 +141,6 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -150,6 +149,7 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
@@ -159,9 +159,12 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 
 ## 📊 GitHub Stats
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api?username=heechan02&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&icon_color=F7931A&text_color=c9d1d9" height="165" />
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heechan02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&icon_color=F7931A&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heechan02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api/top-langs/?username=heechan02&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
@@ -172,5 +175,4 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 
 <p align="center">
   <em>Open to software engineering and blockchain internship opportunities.</em><br>
-  <strong>Let's build something meaningful →</strong> <a href="mailto:heechanyang02@gmail.com">heechanyang02@gmail.com</a>
-</p>
+  <strong>Let's build something meaningful →</strong> <a href="/cdn-cgi/l/email-pr
