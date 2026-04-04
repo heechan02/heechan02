@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <strong>Heechan Yang</strong> · BSc Computer Science & AI · Loughborough University
+  <strong>Heechan Yang</strong>
+</p>
+<p align="center">
+  BSc Computer Science & AI @ Loughborough University
 </p>
 
 <p align="center">
@@ -57,51 +60,63 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
 
 </details>
 
-<!-- PROJECT CARD: Chain Lens -->
+<!-- PROJECT CARD: Summer of Bitcoin -->
 <details>
-<summary><h3>🔍 Chain Lens — Bitcoin Transaction Parser&nbsp;&nbsp;<code>Summer of Bitcoin · Challenge 1</code></h3></summary>
+<summary><h3>₿ Summer of Bitcoin 2026 — Protocol Engineering Challenges&nbsp;&nbsp;<code>All 3 Completed</code></h3></summary>
 <br>
 
-> Protocol-first transaction parser that reads raw Bitcoin binary and explains it in plain English.
+> Three progressively deeper challenges covering core Bitcoin protocol engineering — from raw transaction parsing to wallet construction to chain analysis.
 
-- Raw binary parsing of Bitcoin Core `.dat` files with XOR deobfuscation
-- SegWit weight/fee calculation (BIP-141), RBF signaling, timelocks (BIP-68)
-- Merkle root verification from scratch
-- Web visualiser that breaks down transactions for non-technical users
+**Challenge 1 · Chain Lens (Transaction Parser)**
+- Protocol-first Bitcoin transaction parser with raw binary parsing of Bitcoin Core `.dat` files (XOR deobfuscation)
+- SegWit weight/fee calculation (BIP-141), RBF signaling, timelocks (BIP-68), Merkle root verification
+- Web visualiser explaining transactions in plain English
 
-`TypeScript` `Node.js` `React` `Bitcoin Protocol` `BIP-141` `BIP-68`
-
-</details>
-
-<!-- PROJECT CARD: Coin Smith -->
-<details>
-<summary><h3>🪙 Coin Smith — PSBT Transaction Builder&nbsp;&nbsp;<code>Summer of Bitcoin · Challenge 2</code></h3></summary>
-<br>
-
-> Wallet-engineering-grade transaction builder handling the edge cases real wallets face.
-
-- BIP-174 PSBT construction with Branch-and-Bound + greedy coin selection
-- Iterative fee/change resolution at the dust threshold boundary (545 vs 546 sats)
+**Challenge 2 · Coin Smith (PSBT Builder)**
+- Wallet-engineering-grade PSBT transaction builder (BIP-174)
+- Branch-and-Bound + greedy coin selection, iterative fee/change resolution at the dust threshold boundary (545 vs 546 sats)
 - Anti-fee-sniping locktime and RBF signaling (BIP-125)
-- CLI tool + interactive web UI + automated test suite
 
-`TypeScript` `Node.js` `React` `BIP-174` `BIP-125` `Vitest`
+**Challenge 3 · Sherlock (Chain Analysis)**
+- 9-heuristic chain analysis engine processing 84+ real mainnet blocks per fixture
+- Common Input Ownership, change detection, CoinJoin/consolidation detection, peeling chains
+- Transaction classification with deterministic priority waterfall
+
+Each challenge includes a CLI tool, interactive web UI, and automated test suite.
+
+`TypeScript` `Node.js` `React` `Bitcoin Protocol` `BIP-141/174/125/68` `Chain Analysis` `Vitest`
 
 </details>
 
-<!-- PROJECT CARD: Sherlock -->
+<!-- PROJECT CARD: PHEM -->
 <details>
-<summary><h3>🕵️ Sherlock — Bitcoin Chain Analysis Engine&nbsp;&nbsp;<code>Summer of Bitcoin · Challenge 3</code></h3></summary>
+<summary><h3>🎭 PHEM — Performance Hall Event Management System&nbsp;&nbsp;<code>Java · OOP Coursework · 91%</code></h3></summary>
 <br>
 
-> 9-heuristic chain analysis engine processing 84+ real mainnet blocks per fixture.
+> Full-featured Java desktop application for venue event management with admin and customer interfaces, shopping basket, and mock payment gateway.
 
-- Common Input Ownership, change detection via multi-signal scoring
-- CoinJoin & consolidation detection, address reuse tracking, peeling chain identification
-- Transaction classification with deterministic priority waterfall
-- Built on real Bitcoin mainnet data — not testnet simulations
+- **Admin module** with inventory oversight, smart sorting by ticket price, and stock management
+- **Customer module** with event browsing, shopping basket (add/view/cancel), search by Event ID, and language filtering
+- **Payment gateway** supporting PayPal (email validation) and credit card (6-digit card + 3-digit CVV), with automated receipt generation
+- Automatic stock deduction on successful payment · file-based persistence · robust error handling
 
-`TypeScript` `Node.js` `React` `Chain Analysis Heuristics` `Vitest`
+`Java` `Swing` `MigLayout` `OOP` `SOLID Principles` `File I/O`
+
+</details>
+
+<!-- PROJECT CARD: Arduino Payroll -->
+<details>
+<summary><h3>⚙️ Arduino Payroll Management System&nbsp;&nbsp;<code>C/C++ · Embedded · 77%</code></h3></summary>
+<br>
+
+> Embedded payroll system on Arduino with FSM architecture, LCD dashboard, and real-time employee record management within tight memory constraints.
+
+- **5-state Finite State Machine** (SYNC → STANDBY → READ → BUTTON → DISP) managing all system transitions
+- Serial command interface for CRUD operations with strict input validation (7-digit IDs, grade ranges, salary formats)
+- **Adafruit RGB LCD Shield** with colour-coded status indicators (green = pension, red = no pension, purple = system info)
+- Bubble sort auto-ordering by Employee ID · dynamic SRAM monitoring · custom LCD arrow graphics
+
+`C/C++` `Arduino` `Embedded Systems` `FSM` `Adafruit LCD Shield`
 
 </details>
 
@@ -125,7 +140,8 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Effect_TS-111827?style=flat-square" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -134,6 +150,7 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -154,6 +171,6 @@ I'm a second-year CS & AI student who builds at the intersection of **Bitcoin pr
 ---
 
 <p align="center">
-  <em>Currently looking for blockchain / full-stack internship opportunities for Summer 2026.</em><br>
+  <em>Open to software engineering and blockchain internship opportunities.</em><br>
   <strong>Let's build something meaningful →</strong> <a href="mailto:heechanyang02@gmail.com">heechanyang02@gmail.com</a>
 </p>
