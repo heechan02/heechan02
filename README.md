@@ -165,7 +165,7 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api/top-langs/?username=heechan02&layout=compact&count_private=true&langs_count=12&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api/top-langs/?username=heechan02&layout=compact&count_private=true&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
