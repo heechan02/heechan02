@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/heechan02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="/cdn-cgi/l/email-protection#8ae2efefe9e2ebe4f3ebe4edbab8caede7ebe3e6a4e9e5e7"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:heechanyang02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -141,6 +141,8 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -149,7 +151,6 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
@@ -164,7 +165,7 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api/top-langs/?username=heechan02&layout=compact&count_private=true&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats-psi-gray-67.vercel.app/api/top-langs/?username=heechan02&layout=compact&count_private=true&langs_count=12&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7931A&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
@@ -175,4 +176,5 @@ Each challenge includes a CLI tool, interactive web UI, and automated test suite
 
 <p align="center">
   <em>Open to software engineering and blockchain internship opportunities.</em><br>
-  <strong>Let's build something meaningful →</strong> <a href="/cdn-cgi/l/email-pr
+  <strong>Let's build something meaningful →</strong> <a href="mailto:heechanyang02@gmail.com">heechanyang02@gmail.com</a>
+</p>
