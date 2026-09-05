@@ -27,7 +27,8 @@ I'm a final-year Computer Science & AI student (First Class average) and the sol
     <td align="center" width="50%">
       <h3>💼 BALLR Ltd</h3>
       <strong>Lead Software Engineer — sole engineer</strong><br>
-      2,000+ users · 1,500+ bookings · Stripe live in 2 countries
+      2,000+ users · 1,500+ bookings · Stripe live in 2 countries<br>
+      <a href="https://apps.apple.com/gb/app/ballr-club/id6762270628">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.ballrapp.app">Google Play</a>
     </td>
     <td align="center" width="50%">
       <h3>🥇 Microsoft Embrace × Midlands Hackathon 2026</h3>
@@ -57,6 +58,9 @@ I'm a final-year Computer Science & AI student (First Class average) and the sol
 - Lead end-to-end development of a sports social app pairing footballers with similar-level training partners and coaches, driving growth to 2,000+ users across international markets
 - Own the full stack as sole engineer: Supabase (Postgres) schema design, Stripe payments live in 2 countries, and App Store / Google Play releases via Expo EAS
 - Shipped sessions, coach bookings, friend connections and location-based push alerts, driving 1,500+ bookings
+
+<a href="https://apps.apple.com/gb/app/ballr-club/id6762270628"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.ballrapp.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
 
 **Full-Stack Developer Intern · Neuro Notion (Startup)** — Remote · Apr 2025 – Aug 2025
 - Owned end-to-end delivery of Stripe payments for a product with 500+ users: REST API integration and Node.js webhooks keeping the React frontend and PostgreSQL consistent under asynchronous transactions
