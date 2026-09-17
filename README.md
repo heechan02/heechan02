@@ -31,7 +31,7 @@ I'm a final-year Computer Science & AI student (First Class average) and the sol
       <a href="https://apps.apple.com/gb/app/ballr-club/id6762270628">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.ballrapp.app">Google Play</a>
     </td>
     <td align="center" width="50%">
-      <h3>🥇 Microsoft Embrace × Midlands Hackathon 2026</h3>
+      <h3>🥇 Microsoft Midlands Hackathon 2026</h3>
       <strong>Winner</strong><br>
       Lighthouse — AI career advisor, shipped end to end in 5 hours
     </td>
@@ -72,8 +72,8 @@ I'm a final-year Computer Science & AI student (First Class average) and the sol
 ## ⚡ Featured Builds
 
 <!-- PROJECT CARD: Lighthouse -->
-<details open>
-<summary><h3>🔦 <a href="https://github.com/heechan02/lighthouse">Lighthouse — AI Career Advisor for Students</a>&nbsp;&nbsp;<code>Microsoft Embrace × Midlands Hackathon 2026 · Winner</code></h3></summary>
+<details>
+<summary><h3>🔦 <a href="https://github.com/heechan02/lighthouse">Lighthouse — AI Career Advisor for Students</a>&nbsp;&nbsp;<code>Microsoft Midlands Hackathon 2026 · Winner</code></h3></summary>
 <br>
 
 > An AI career advisor that interviews students conversationally, builds a skills/interests profile, and turns it into personalised career paths, skill-gap analyses and course/summer-work recommendations.
@@ -146,13 +146,21 @@ I'm a final-year Computer Science & AI student (First Class average) and the sol
 
 <br>
 
+## 🎓 Academic Projects
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [**PHEM**](https://github.com/heechan02/Performance-Hall-Event-Management-System) · *OOP coursework · 91%* | Java desktop app for venue event management — admin and customer roles, shopping basket, mock PayPal/card payment gateway; SOLID principles, Strategy pattern, full JUnit suite | Java · Swing · MigLayout · JUnit |
+| [**Arduino Payroll**](https://github.com/heechan02/Payroll-Management-System-Arduino) · *Embedded coursework · 77%* | Payroll firmware with a 5-state FSM, serial CRUD interface with strict input validation, and an RGB LCD dashboard — all within tight SRAM constraints | C/C++ · Arduino · FSM · Adafruit LCD Shield |
+| [**SatStack**](https://github.com/heechan02/satstack) · *Mobile Application Development coursework · 76%* | Native Android Bitcoin DCA journal — biometric vault, milestone push notifications, double-tap privacy mode, live BTC price and Fear & Greed analytics; MVVM + StateFlow over Room, with offline-aware graceful degradation · [Demo](https://www.youtube.com/watch?v=DhsCLw3OQZE) | Kotlin · Jetpack Compose · Material 3 · Room · DataStore · MVVM |
+
+<br>
+
 ## 🗂️ Other Projects
 
 | Project | What it is | Tech |
 | --- | --- | --- |
 | [**SaveAI**](https://github.com/heechan02/saveai) · *Unicorn Mafia Hackathon 2026* | "MyFitnessPal for AI tokens" — real-time dollar / water / CO₂ cost per LLM query, pre-flight cost-cliff detection, and pgvector semantic caching to cut redundant API calls · [Live](https://saveai.onrender.com) | Next.js 14 · TypeScript · Drizzle ORM · PostgreSQL · pgvector · Pydantic AI Gateway |
-| [**PHEM**](https://github.com/heechan02/Performance-Hall-Event-Management-System) · *OOP coursework* | Java desktop app for venue event management — admin and customer roles, shopping basket, mock PayPal/card payment gateway; SOLID principles, Strategy pattern, full JUnit suite | Java · Swing · MigLayout · JUnit |
-| [**Arduino Payroll**](https://github.com/heechan02/Payroll-Management-System-Arduino) · *Embedded coursework* | Payroll firmware with a 5-state FSM, serial CRUD interface with strict input validation, and an RGB LCD dashboard — all within tight SRAM constraints | C/C++ · Arduino · FSM · Adafruit LCD Shield |
 
 <br>
 
